@@ -273,7 +273,7 @@ classifiers = [
     'Operating System :: POSIX'
 ]
 
-setup(name = 'machine-learning-py',
+setup(name = 'mlpy',
       version='3.5.8',
       requires=['numpy (>=1.3.0)', 'scipy (>=0.7.0)', 'gsl (>=1.11)'],
       description='mlpy - Machine Learning Py - ' \
